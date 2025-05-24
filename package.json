@@ -1,6 +1,6 @@
 {
 	"name": "ip-intel",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Express middleware to extract real client IP and optional geo-location, supporting proxies and CDNs.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
